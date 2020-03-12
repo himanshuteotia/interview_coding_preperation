@@ -9,3 +9,15 @@ function printSteps(num) {
 }
 
 printSteps(20)
+
+function printRecursion(num, row = 0, stair = '') {
+
+  // base case
+
+}
+
+/**
+ * 
+ * 
+ * 
+ */
